@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Sistema respiratorio simplificado'
+message: 'Modelado de Sistema Fisiológicos / Ingeniería Biomédica '
+type: software
+authors:
+  - given-names: 'Aarón R. Rosas Montoya '
+    email: l23210716@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/aaronrosas08/MSFPractica0'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/aaronrosas08/MSFPractica0'
+keywords:
+  - Sistema Respiratorio
+  - Circuito RLC
+  - Controlador PID
+  - 'Modelo Matemático '
+  - 'Simulaciones Numéricas '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-17'
